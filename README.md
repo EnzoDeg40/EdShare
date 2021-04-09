@@ -17,8 +17,11 @@ Usage:
 * Make a right click on file
 * Select `EdShare` to upload file to your server
 
+![Windows Demonstration](demo.gif)
+
 Note:
-* if folder has moved, run `install.bat` after 
+* If folder has moved, run `install.bat` after 
 
 Uninstallation : 
 * Open `uninstall.reg`
+
