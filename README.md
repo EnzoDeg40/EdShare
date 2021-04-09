@@ -1,6 +1,8 @@
 # EdShare
 Share quickly file from Windows Right Click to web site using SSH
 
+![Windows Right Click](rightclick.png)
+
 Requirements:
 * Windows
 * Python 3
