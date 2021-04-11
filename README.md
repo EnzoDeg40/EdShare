@@ -1,5 +1,5 @@
 # EdShare
-Share quickly file from Windows Right Click to web site using SSH
+Share quickly file from Windows Right Click to web site using SSH. Program upload file to web server then give url for download. [See demonstration](https://github.com/EnzoDeg40/EdShare/blob/main/demo.gif).
 
 ![Windows Right Click](rightclick.png)
 
@@ -10,9 +10,9 @@ Requirements:
 * Packages Python `pip install paramiko pyperclip win10toast`
 
 Installation:
-* Clone or download 
+* Download this repository
 * Put the folder in the desired location for installation
-* Open `install.bat` with right administrator
+* Open `install.bat` with administrator rights
 * Modify variables in `main.py`
 
 Usage:
