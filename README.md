@@ -11,7 +11,7 @@ Requirements:
 
 Installation:
 * Download this repository
-* Put the folder in the desired location for installation
+* Put the folder in the desired location for installation. `C:\EdStudio` is recommended
 * Open `install.bat` with administrator rights
 * Modify variables in `main.py`
 
