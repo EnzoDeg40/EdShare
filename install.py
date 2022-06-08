@@ -3,7 +3,7 @@ import os
 folder = os.getcwd()
 
 print("EdShare installer")
-print("Ne déplacer pas le dossier après l'installation")
+print("Ne pas déplacez le dossier après l'installation")
 print("Dossier d'installation :", os.getcwd())
 
 r = input(colored("Continuer l'installation (O/n) ? ", 'yellow'))
@@ -47,8 +47,8 @@ if r.lower() == 'o' or r == '':
 
     f.close
 
-    print("Installation terminé")
-    print("Lancer uninstall.reg pour désintallé le programme")
+    print("Installation terminée")
+    print("Lancer uninstall.reg pour désintaller le programme")
 
 else:
     print("Installation annulée")
